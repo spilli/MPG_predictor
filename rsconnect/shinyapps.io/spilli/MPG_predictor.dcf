@@ -1,9 +1,0 @@
-name: MPG_predictor
-account: spilli
-server: shinyapps.io
-appId: 91442
-bundleId: 408411
-url: https://spilli.shinyapps.io/MPG_predictor/
-when: 1459534877.11551
-asMultiple: FALSE
-asStatic: FALSE
